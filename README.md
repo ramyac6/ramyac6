@@ -2,6 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ramyachalla)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ramyac6.github.io/)
+[![Devpost Badge](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Framyac6%2Framyac6%2Fmain%2Fdevpost_badge_endpoint.json)](https://devpost.com/ramyac6)
+
 
 ### Nice to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ramyac6.ramyac6&style=flat-square&color=0088cc)
 
