@@ -13,7 +13,7 @@ I'm a second year undergraduate student in Computer Science at the University of
 - 🌱 I’m currently learning React Native and Python
 - 📫 How to reach me: ramyac6[at]cs.washington.edu
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love robotics and hope to work until that field in the future.
+- ⚡ Fun fact: Wall-E was my favorite movie growing up.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
