@@ -7,13 +7,13 @@
 
 ### Nice to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ramyac6.ramyac6&style=flat-square&color=0088cc)
 
-I'm a second year undergraduate student in Computer Science at the University of Washington, Seattle. I'm a avid learner with a long list of technologies and languages that I want to learn. I enjoy exploring new tech stacks across a variety of platforms that can then be appleid to solve real-life problems. I'm currently interested in backend work and working on app development with React Native.
+I'm a PhD student in Robotics at Oregon State University. I'm a avid learner with a long list of technologies and languages that I want to learn. I enjoy exploring new tech stacks across a variety of platforms that can then be appleid to solve real-life problems. I'm currently interested in backend work and working on app development with React Native.
 
 
 - 🌱 I’m currently learning React Native and Python
 - 📫 How to reach me: ramyac6[at]cs.washington.edu
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Wall-E was my favorite movie growing up.
+- ⚡ Fun fact: Wall-E is the best movie, hands down.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
