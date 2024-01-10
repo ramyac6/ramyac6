@@ -7,7 +7,7 @@
 
 ### Nice to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ramyac6.ramyac6&style=flat-square&color=0088cc)
 
-I'm a PhD student in Robotics at Oregon State University. I'm a avid learner with a long list of technologies and languages that I want to learn. I enjoy exploring new tech stacks across a variety of platforms that can then be appleid to solve real-life problems. I'm currently interested in backend work and working on app development with React Native.
+I'm a graduate student in Robotics at Oregon State University. I'm a avid learner with a long list of technologies and languages that I want to learn. I enjoy exploring new tech stacks across a variety of platforms that can then be appleid to solve real-life problems. I'm currently interested in backend work and working on app development with React Native.
 
 
 - 🌱 I’m currently learning React Native and Python
